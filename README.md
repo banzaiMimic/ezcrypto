@@ -1,2 +1,1 @@
-# ezcrypto
-basic java encryption
+basic 128 bit key 16 bytes IV encryption in Java
