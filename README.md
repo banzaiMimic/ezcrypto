@@ -1,0 +1,2 @@
+# ezcrypto
+basic java encryption
